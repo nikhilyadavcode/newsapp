@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": null, "name": "ESPNcricinfo" },
+      "author": "Staff Writer",
+      "title": "India clinch thriller in last over to seal T20I series 3–2",
+      "description": "A nervy finish in Kolkata saw India edge past Australia with two balls to spare.",
+      "url": "https://unsplash.com/photos/crowd-of-people-sitting-on-stadium-seats-bY4cqxp7vos",
+      "urlToImage": "https://example.com/images/ind-aus-finale.jpg",
+      "publishedAt": "2025-08-31T06:10:00Z",
+      "content": "Suryakumar Yadav held his nerve at the death after a late wobble in the chase as India wrapped up the series. Earlier, Bumrah's double-strike... [+2275 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Cricbuzz" },
+      "author": "Cricbuzz Staff",
+      "title": "Shubman Gill ruled out of Asia Cup opener with hamstring niggle",
+      "description": "Team management takes a cautious approach ahead of packed calendar.",
+      "url": "https://unsplash.com/photos/people-playing-in-a-field-DvreeyPXQww",
+      "urlToImage": "https://example.com/images/gill-injury.jpg",
+      "publishedAt": "2025-08-31T05:55:00Z",
+      "content": "Gill felt stiffness during a training drill and did not take further part in the session. India are likely to draft in... [+1634 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "England recall Archer for South Africa ODI series",
+      "description": "Fast bowler Jofra Archer returns after managing his workload through the T20 summer.",
+      "url": "https://example.com/news/england-squad-archer-odi",
+      "urlToImage": "https://example.com/images/archer-return.jpg",
+      "publishedAt": "2025-08-31T05:20:00Z",
+      "content": "Archer joins a pace group including Wood and Topley as England eye Champions Trophy preparation. Coach says... [+2011 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Hindu" },
+      "author": "Sports Desk",
+      "title": "Ranji Trophy to start on October 10; Duleep moved to November",
+      "description": "BCCI tweaks domestic calendar to reduce overlaps and travel fatigue.",
+      "url": "https://example.com/news/bcci-domestic-calendar-2025-26",
+      "urlToImage": "https://example.com/images/ranji-trophy.jpg",
+      "publishedAt": "2025-08-31T04:45:00Z",
+      "content": "The board announced a windowed schedule with fewer back-to-back fixtures and mandatory rest breaks for quicks... [+1422 chars]"
+    },
+    {
+      "source": { "id": "icc", "name": "ICC" },
+      "author": "ICC Media",
+      "title": "ICC unveils updated World Test Championship standings after Pakistan win",
+      "description": "Pakistan jump to second after a comprehensive victory in Rawalpindi.",
+      "url": "https://example.com/news/wtc-standings-update-pakistan",
+      "urlToImage": "https://example.com/images/wtc-table.jpg",
+      "publishedAt": "2025-08-31T04:10:00Z",
+      "content": "Babar Azam's side gained vital points as the race to the final heats up. Australia remain top while India... [+1283 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sky Sports" },
+      "author": "Sky Sports Cricket",
+      "title": "The Hundred: Oval Invincibles book finals berth with dominant win",
+      "description": "Clinical bowling sets up a straightforward chase at The Oval.",
+      "url": "https://example.com/news/hundred-invincibles-qualify",
+      "urlToImage": "https://example.com/images/the-hundred.jpg",
+      "publishedAt": "2025-08-31T03:50:00Z",
+      "content": "Spencer Johnson and Sunil Narine shared seven wickets as the Invincibles stormed into the final weekend... [+1187 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NDTV Sports" },
+      "author": "NDTV Sports Desk",
+      "title": "Smriti Mandhana hits record 6th WODI ton of the year",
+      "description": "India opener continues purple patch against Sri Lanka in Pune.",
+      "url": "https://example.com/news/mandhana-wodi-century-record",
+      "urlToImage": "https://example.com/images/mandhana-century.jpg",
+      "publishedAt": "2025-08-31T03:20:00Z",
+      "content": "Mandhana's 126 off 114 balls featured 15 fours and two sixes as India posted a commanding total of... [+1369 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Guardian" },
+      "author": "Guardian Sport",
+      "title": "Warner hints at Big Bash farewell after Sydney swansong",
+      "description": "Veteran opener says he will consider coaching and mentoring roles.",
+      "url": "https://example.com/news/warner-bbl-farewell",
+      "urlToImage": "https://example.com/images/warner-bbl.jpg",
+      "publishedAt": "2025-08-31T02:55:00Z",
+      "content": "Warner thanked home fans after a cameo at the SCG and said discussions are ongoing with franchises about... [+1014 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Times of India" },
+      "author": "TOI Sports",
+      "title": "IPL 2026 auction to be held in Dubai in December: Report",
+      "description": "Mega auction expected with expanded purse and Right-to-Match tweaks.",
+      "url": "https://example.com/news/ipl-2026-auction-dubai",
+      "urlToImage": "https://example.com/images/ipl-auction.jpg",
+      "publishedAt": "2025-08-31T02:30:00Z",
+      "content": "Franchises have been informed of tentative dates, with a final schedule to follow after the Champions Trophy... [+1512 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Sportskeeda" },
+      "author": "Sportskeeda Cricket",
+      "title": "‘He’s the finisher India needed’ — Fans laud Rinku Singh after another late cameo",
+      "description": "Social reacts as Rinku closes out another chase with calm and power.",
+      "url": "https://example.com/news/rinku-singh-finisher-reactions",
+      "urlToImage": "https://example.com/images/rinku-finish.jpg",
+      "publishedAt": "2025-08-31T02:05:00Z",
+      "content": "Rinku's 24* off 9 balls included two sixes in the final over, prompting comparisons with... [+902 chars]"
+    }
+  ]
+}
